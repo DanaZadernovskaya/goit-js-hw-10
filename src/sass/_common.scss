@@ -1,0 +1,12 @@
+@import '~node_modules/modern-normalize/modern-normalize.css';
+ .loader, .error {
+     display: none;
+     
+ }
+ .cat-info {display: none;
+    margin-top: 10px;
+    gap: 10px;
+}
+ .cat-image {
+    height: 300px;
+ }
